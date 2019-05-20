@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="TESTING01" Database="" Version="10.0.0">
+  <Project Name="classes_objects01" Path="classes_objects01/classes_objects01.project" Active="No"/>
+  <Project Name="constructor01" Path="constructor01/constructor01.project" Active="No"/>
+  <Project Name="data_members01" Path="data_members01/data_members01.project" Active="No"/>
+  <Project Name="data_members02" Path="data_members02/data_members02.project" Active="No"/>
+  <Project Name="data_members03" Path="data_members03/data_members03.project" Active="No"/>
+  <Project Name="friend_function01" Path="friend_function01/friend_function01.project" Active="No"/>
+  <Project Name="friend_function02" Path="friend_function02/friend_function02.project" Active="No"/>
+  <Project Name="member_function01" Path="member_function01/member_function01.project" Active="No"/>
+  <Project Name="operator_overloading01" Path="operator_overloading01/operator_overloading01.project" Active="No"/>
+  <Project Name="operator_overloading02" Path="operator_overloading02/operator_overloading02.project" Active="No"/>
+  <Project Name="tarun_operator_overloading" Path="tarun_operator_overloading/tarun_operator_overloading.project" Active="No"/>
+  <Project Name="validation_user_input01" Path="validation_user_input01/validation_user_input01.project" Active="No"/>
+  <Project Name="member_function02" Path="member_function02/member_function02.project" Active="No"/>
+  <Project Name="friend_class01" Path="friend_class01/friend_class01.project" Active="No"/>
+  <Project Name="inline_function01" Path="inline_function01/inline_function01.project" Active="No"/>
+  <Project Name="constructor04" Path="constructor04/constructor04.project" Active="No"/>
+  <Project Name="constructor02" Path="constructor02/constructor02.project" Active="No"/>
+  <Project Name="constructor03" Path="constructor03/constructor03.project" Active="No"/>
+  <Project Name="destructor01" Path="destructor01/destructor01.project" Active="No"/>
+  <Project Name="static_data_members01" Path="static_data_members01/static_data_members01.project" Active="No"/>
+  <Project Name="static_member_function01" Path="static_member_function01/static_member_function01.project" Active="No"/>
+  <Project Name="passign_object01" Path="passign_object01/passign_object01.project" Active="No"/>
+  <Project Name="returning_object01" Path="returning_object01/returning_object01.project" Active="No"/>
+  <Project Name="operator_overloading03" Path="operator_overloading03/operator_overloading03.project" Active="No"/>
+  <Project Name="generic_class01" Path="generic_class01/generic_class01.project" Active="No"/>
+  <Project Name="generic_class02" Path="generic_class02/generic_class02.project" Active="No"/>
+  <Project Name="generic_function01" Path="generic_function01/generic_function01.project" Active="No"/>
+  <Project Name="generic_function02" Path="generic_function02/generic_function02.project" Active="No"/>
+  <Project Name="generic_function03" Path="generic_function03/generic_function03.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="classes_objects01" ConfigName="Debug"/>
+      <Project Name="constructor01" ConfigName="Debug"/>
+      <Project Name="data_members01" ConfigName="Debug"/>
+      <Project Name="data_members02" ConfigName="Debug"/>
+      <Project Name="data_members03" ConfigName="Debug"/>
+      <Project Name="friend_function01" ConfigName="Debug"/>
+      <Project Name="friend_function02" ConfigName="Debug"/>
+      <Project Name="member_function01" ConfigName="Debug"/>
+      <Project Name="operator_overloading01" ConfigName="Debug"/>
+      <Project Name="operator_overloading02" ConfigName="Debug"/>
+      <Project Name="tarun_operator_overloading" ConfigName="Debug"/>
+      <Project Name="validation_user_input01" ConfigName="Debug"/>
+      <Project Name="member_function02" ConfigName="Debug"/>
+      <Project Name="friend_class01" ConfigName="Debug"/>
+      <Project Name="inline_function01" ConfigName="Debug"/>
+      <Project Name="constructor04" ConfigName="Debug"/>
+      <Project Name="constructor02" ConfigName="Debug"/>
+      <Project Name="constructor03" ConfigName="Debug"/>
+      <Project Name="destructor01" ConfigName="Debug"/>
+      <Project Name="static_data_members01" ConfigName="Debug"/>
+      <Project Name="static_member_function01" ConfigName="Debug"/>
+      <Project Name="passign_object01" ConfigName="Debug"/>
+      <Project Name="returning_object01" ConfigName="Debug"/>
+      <Project Name="operator_overloading03" ConfigName="Debug"/>
+      <Project Name="generic_class01" ConfigName="Debug"/>
+      <Project Name="generic_class02" ConfigName="Debug"/>
+      <Project Name="generic_function01" ConfigName="Debug"/>
+      <Project Name="generic_function02" ConfigName="Debug"/>
+      <Project Name="generic_function03" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="classes_objects01" ConfigName="Release"/>
+      <Project Name="constructor01" ConfigName="Release"/>
+      <Project Name="data_members01" ConfigName="Release"/>
+      <Project Name="data_members02" ConfigName="Release"/>
+      <Project Name="data_members03" ConfigName="Release"/>
+      <Project Name="friend_function01" ConfigName="Release"/>
+      <Project Name="friend_function02" ConfigName="Release"/>
+      <Project Name="member_function01" ConfigName="Release"/>
+      <Project Name="operator_overloading01" ConfigName="Release"/>
+      <Project Name="operator_overloading02" ConfigName="Release"/>
+      <Project Name="tarun_operator_overloading" ConfigName="Release"/>
+      <Project Name="validation_user_input01" ConfigName="Release"/>
+      <Project Name="member_function02" ConfigName="Release"/>
+      <Project Name="friend_class01" ConfigName="Release"/>
+      <Project Name="inline_function01" ConfigName="Release"/>
+      <Project Name="constructor04" ConfigName="Release"/>
+      <Project Name="constructor02" ConfigName="Release"/>
+      <Project Name="constructor03" ConfigName="Release"/>
+      <Project Name="destructor01" ConfigName="Release"/>
+      <Project Name="static_data_members01" ConfigName="Release"/>
+      <Project Name="static_member_function01" ConfigName="Release"/>
+      <Project Name="passign_object01" ConfigName="Release"/>
+      <Project Name="returning_object01" ConfigName="Release"/>
+      <Project Name="operator_overloading03" ConfigName="Release"/>
+      <Project Name="generic_class01" ConfigName="Release"/>
+      <Project Name="generic_class02" ConfigName="Release"/>
+      <Project Name="generic_function01" ConfigName="Release"/>
+      <Project Name="generic_function02" ConfigName="Release"/>
+      <Project Name="generic_function03" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
